@@ -400,3 +400,6 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
 
+## Working with react
+
+https://github.com/bcherny/ngimport
