@@ -392,7 +392,11 @@ A curated list of amazingly Angular 2+ components, libraries, resources and shin
 - [ng2-file-upload](https://github.com/valor-software/ng2-file-upload) - Easy to use Angular components for files upload.
 - [ngx-dropzone-wrapper](https://github.com/zefoy/ngx-dropzone-wrapper) - Angular wrapper library for Dropzone
 
+## Ng-Conf
+
+[Youtube- A Whole New Way to Build Ivy Apps](https://youtu.be/oaenxcJJArg)
+
 
 # Other Libraries
 - [ng-google-sheets-db](https://github.com/FranzDiebold/ng-google-sheets-db-library) - :rocket: Use Google Sheets as your (read-only) backend!
-  
+
